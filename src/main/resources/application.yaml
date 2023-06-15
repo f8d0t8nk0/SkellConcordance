@@ -1,0 +1,6 @@
+server:
+  port: 8444
+
+skell:
+  hostname: https://skell.sketchengine.eu
+  path: /api/run.cgi/concordance

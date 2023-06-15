@@ -1,0 +1,850 @@
+{
+  "Query": "deviant",
+  "User": "",
+  "MethodName": "concordance",
+  "CorpName": "/mnt/toad4/disk1/skell/corpora/registry/skell_3_10",
+  "UiLang": "",
+  "AdSense": false,
+  "Mobile": false,
+  "Err": null,
+  "Lines": [
+    {
+      "Left": [
+        {
+          "Str": "The normal justification thesis allows for",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " reasons.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 288678
+    },
+    {
+      "Left": [
+        {
+          "Str": "The teen culture is pretty mean and",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 698521
+    },
+    {
+      "Left": [
+        {
+          "Str": "But here it speaks of disciples gathering",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " teachers.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 1535426
+    },
+    {
+      "Left": [
+        {
+          "Str": "It is the flip side of",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behavior.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 2182541
+    },
+    {
+      "Left": [
+        {
+          "Str": "The control theory developed when norms emerge to deter",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behavior.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 2791345
+    },
+    {
+      "Left": [
+        {
+          "Str": "By association exotic dancing is generally considered",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " as well.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 3371584
+    },
+    {
+      "Left": [
+        {
+          "Str": "Unlike everyone else he thought me quite",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 3407446
+    },
+    {
+      "Left": [
+        {
+          "Str": "The final sanction is rejection of the",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 4193542
+    },
+    {
+      "Left": [
+        {
+          "Str": "Thus, nothing is inherently",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " or wrong.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 4958399
+    },
+    {
+      "Left": [
+        {
+          "Str": "Wertham alleged comics stimulated",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " sexual behavior.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 5773688
+    },
+    {
+      "Left": [
+        {
+          "Str": "The therapy provides aversive conditioning to",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " sexual fantasies.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 5907601
+    },
+    {
+      "Left": [
+        {
+          "Str": "Acceptance as role of",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " or criminal actor.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 8744841
+    },
+    {
+      "Left": [
+        {
+          "Str": "Information about",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behavior becomes the basis for controlling social activity.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 8806139
+    },
+    {
+      "Left": [
+        {
+          "Str": "Both are, of course,",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 12969485
+    },
+    {
+      "Left": [
+        {
+          "Str": "There are four different types of",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behaviors falling into different categories.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 13799133
+    },
+    {
+      "Left": [],
+      "Kwic": [
+        {
+          "Str": "Deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behaviour has always been a popular topic for ethnographic research.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 13881990
+    },
+    {
+      "Left": [
+        {
+          "Str": "Given all this, the",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " cases require explanation.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 16218264
+    },
+    {
+      "Left": [
+        {
+          "Str": "However, there were clear differences in expectations of",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " pupils.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 17182280
+    },
+    {
+      "Left": [
+        {
+          "Str": "Evil",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " things, don't ever say.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 19478812
+    },
+    {
+      "Left": [
+        {
+          "Str": "Hayley searches Jeff's house for evidence of sexually",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " crime.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 19698841
+    },
+    {
+      "Left": [
+        {
+          "Str": "With hindsight it makes him sound like a manipulative sexual",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 20362650
+    },
+    {
+      "Left": [
+        {
+          "Str": "This caused the growth of",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " blood vessels in the retina.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 20489377
+    },
+    {
+      "Left": [
+        {
+          "Str": "Boredom and isolation often leads to",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behavior.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 20913309
+    },
+    {
+      "Left": [
+        {
+          "Str": "In generally, ALL of the characters were doing something",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 21783594
+    },
+    {
+      "Left": [
+        {
+          "Str": "Click the artwork above to check out her",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " art page.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 21833025
+    },
+    {
+      "Left": [
+        {
+          "Str": "Who has decided that mat is just bad words and",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " vocabulary?",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 23618744
+    },
+    {
+      "Left": [
+        {
+          "Str": "Without this \"control\",",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behavior would happen more often.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 23970141
+    },
+    {
+      "Left": [
+        {
+          "Str": "Some generative systems have been designed to deal with",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " text.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 24338100
+    },
+    {
+      "Left": [
+        {
+          "Str": "I heard such children contest the view of themselves as being",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 24722908
+    },
+    {
+      "Left": [
+        {
+          "Str": "The WTO stands out as a",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " organisation in many ways.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 27344635
+    },
+    {
+      "Left": [
+        {
+          "Str": "That is what they do with all",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " acts.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 30767773
+    },
+    {
+      "Left": [
+        {
+          "Str": "The perceived risk of engaging in",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behavior was measured using three questions.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 31387875
+    },
+    {
+      "Left": [
+        {
+          "Str": "Community stigmatizes the",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " as a criminal.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 33124659
+    },
+    {
+      "Left": [
+        {
+          "Str": "A",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " act is based on a criminals own self-control of themselves.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 34107236
+    },
+    {
+      "Left": [
+        {
+          "Str": "Various approaches have been taken to represent",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " language in Esperanto literature.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 34210827
+    },
+    {
+      "Left": [
+        {
+          "Str": "Homosexuality and sexual",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " behavior was addressed in the Bible.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 36356817
+    },
+    {
+      "Left": [
+        {
+          "Str": "He, the everyman, was a sexual",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 37750427
+    },
+    {
+      "Left": [
+        {
+          "Str": "These are",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviants",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " who serve equality, not Heaven.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 37878712
+    },
+    {
+      "Left": [
+        {
+          "Str": "Conflict is still seen as",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": ".",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 39488024
+    },
+    {
+      "Left": [
+        {
+          "Str": "Nite Owl has",
+          "Class": "{}"
+        }
+      ],
+      "Kwic": [
+        {
+          "Str": " deviant",
+          "Class": "{col0 coll}"
+        }
+      ],
+      "Right": [
+        {
+          "Str": " sexual connections to being a costumed vigilante.",
+          "Class": "{}"
+        }
+      ],
+      "TokenNum": 40699356
+    }
+  ],
+  "RelSize": 1.6,
+  "RawSize": 1961,
+  "Finished": true
+}
